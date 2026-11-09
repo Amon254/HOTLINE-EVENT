@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fond vert -->
+  <circle cx="32" cy="32" r="32" fill="#1B6B4A"/>
+  <!-- Pin localisation doré -->
+  <path d="M32 10 C21.5 10 13 18.5 13 29 C13 41.5 32 54 32 54 C32 54 51 41.5 51 29 C51 18.5 42.5 10 32 10Z" fill="#C9A84C"/>
+  <!-- Cercle intérieur vert -->
+  <circle cx="32" cy="28" r="9" fill="#1B6B4A"/>
+  <!-- Lettre E blanche -->
+  <text x="32" y="33" font-family="Georgia, serif" font-weight="bold" font-size="13" fill="#fff" text-anchor="middle">E</text>
+</svg>

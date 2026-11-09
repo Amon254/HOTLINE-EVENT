@@ -1,0 +1,53 @@
+{
+  "short_name": "EventHotline",
+  "name": "EventHotline — Lieux événementiels CI",
+  "description": "Trouvez et réservez les meilleurs espaces événementiels en Côte d'Ivoire",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#1B6B4A",
+  "background_color": "#FAFAF8",
+  "lang": "fr",
+  "categories": ["business", "lifestyle"],
+  "shortcuts": [
+    {
+      "name": "Explorer les lieux",
+      "short_name": "Explorer",
+      "url": "/lieux",
+      "icons": [{ "src": "favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Carte",
+      "short_name": "Carte",
+      "url": "/carte",
+      "icons": [{ "src": "favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Messages",
+      "short_name": "Messages",
+      "url": "/messages",
+      "icons": [{ "src": "favicon.svg", "sizes": "any" }]
+    }
+  ]
+}
